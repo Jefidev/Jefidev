@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jefidev
 - 👀 I’m interested in AI and software engineering
-- 🌱 I’m currently learning sgn language recognition
+- 🌱 I’m currently learning sign language recognition
 - 💞️ I’m looking to collaborate on sign language recognition
 - 📫 How to reach me jerome.fink@unamur.be
 
